@@ -1,0 +1,8 @@
+C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.config
+C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.pdb
+C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\obj\Debug\WindowsService2.csprojResolveAssemblyReference.cache
+C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\obj\Debug\WindowsService2.Service1.resources
+C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\obj\Debug\WindowsService2.csproj.GenerateResource.Cache
+C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\obj\Debug\WindowsService2.exe
+C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\obj\Debug\WindowsService2.pdb

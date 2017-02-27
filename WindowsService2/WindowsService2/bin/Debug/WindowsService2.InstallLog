@@ -1,0 +1,293 @@
+﻿Installing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe assembly.
+Committing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Rolling back assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Installing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Installing service RattrServWindows...
+Service RattrServWindows has been successfully installed.
+Creating EventLog source RattrServWindows in log Application...
+Committing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Installing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Installing service RattrServWindows...
+Creating EventLog source RattrServWindows in log Application...
+Rolling back assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Restoring event log to previous state for source RattrServWindows.
+Installing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Installing service RattrServWindows...
+Creating EventLog source RattrServWindows in log Application...
+Rolling back assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Restoring event log to previous state for source RattrServWindows.
+Uninstalling assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Removing EventLog source RattrServWindows.
+Service RattrServWindows is being removed from the system...
+Service RattrServWindows was successfully removed from the system.
+Installing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Installing service RattrServWindows...
+Service RattrServWindows has been successfully installed.
+Creating EventLog source RattrServWindows in log Application...
+Committing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Uninstalling assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Removing EventLog source RattrServWindows.
+Service RattrServWindows is being removed from the system...
+Service RattrServWindows was successfully removed from the system.
+Attempt to stop service RattrServWindows.
+Installing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Installing service RattrServWindows...
+Service RattrServWindows has been successfully installed.
+Creating EventLog source RattrServWindows in log Application...
+Committing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Uninstalling assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Removing EventLog source RattrServWindows.
+Service RattrServWindows is being removed from the system...
+Service RattrServWindows was successfully removed from the system.
+Attempt to stop service RattrServWindows.
+Installing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Installing service RattrServWindows...
+Service RattrServWindows has been successfully installed.
+Creating EventLog source RattrServWindows in log Application...
+Committing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Uninstalling assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Removing EventLog source RattrServWindows.
+Service RattrServWindows is being removed from the system...
+Service RattrServWindows was successfully removed from the system.
+Uninstalling assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Removing EventLog source RattrServWindows.
+Warning: The source RattrServWindows is not registered on the local machine.
+Service RattrServWindows is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Installing service RattrServWindows...
+Service RattrServWindows has been successfully installed.
+Creating EventLog source RattrServWindows in log Application...
+Committing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Uninstalling assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Removing EventLog source RattrServWindows.
+Service RattrServWindows is being removed from the system...
+Service RattrServWindows was successfully removed from the system.
+Attempt to stop service RattrServWindows.
+Installing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Installing service RattrServWindows...
+Service RattrServWindows has been successfully installed.
+Creating EventLog source RattrServWindows in log Application...
+Committing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Uninstalling assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Removing EventLog source RattrServWindows.
+Service RattrServWindows is being removed from the system...
+Service RattrServWindows was successfully removed from the system.
+Attempt to stop service RattrServWindows.
+Installing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Installing service RattrServWindows...
+Service RattrServWindows has been successfully installed.
+Creating EventLog source RattrServWindows in log Application...
+Committing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Uninstalling assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Removing EventLog source RattrServWindows.
+Service RattrServWindows is being removed from the system...
+Service RattrServWindows was successfully removed from the system.
+Attempt to stop service RattrServWindows.
+Installing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Installing service RattrServWindows...
+Service RattrServWindows has been successfully installed.
+Creating EventLog source RattrServWindows in log Application...
+Committing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Uninstalling assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Removing EventLog source RattrServWindows.
+Service RattrServWindows is being removed from the system...
+Service RattrServWindows was successfully removed from the system.
+Installing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Installing service RattrServWindows...
+Service RattrServWindows has been successfully installed.
+Creating EventLog source RattrServWindows in log Application...
+Committing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Uninstalling assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Removing EventLog source RattrServWindows.
+Service RattrServWindows is being removed from the system...
+Service RattrServWindows was successfully removed from the system.
+Installing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Installing service RattrServWindows...
+Service RattrServWindows has been successfully installed.
+Creating EventLog source RattrServWindows in log Application...
+Committing assembly 'C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\dylan\Desktop\Cours\2e année\Project RedX\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
